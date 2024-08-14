@@ -2,7 +2,7 @@
 
 
 # Objective
-Krishna store wants to create an annual sales report for 2022 to understand customers and drive sales growth in 2023.
+Krishna store wants to create an annual sales report for 2023 to understand customers and drive sales growth in 2024.
 
 # Process
 1. Data Cleaning: Validate, standardize, and enrich data.
